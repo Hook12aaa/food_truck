@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/hook/Documents/food_truck/devel -DCMAKE_INSTALL_PREFIX=/home/hook/Documents/food_truck/install -G Unix Makefiles
